@@ -222,3 +222,7 @@ pre tt:before,
 pre tt:after {
   content: none;
 }
+
+.title {
+  color: red;
+}
